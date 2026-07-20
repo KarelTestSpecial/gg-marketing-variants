@@ -6,10 +6,10 @@ Four versions of the gorilla marketing page with different background colors.
 
 | File | Color Code | Color |
 |------|-----------|-------|
-| **gorilla-0-08960d4b.html** | #08960d4b | Green/Amber |
-| **gorilla-1-08963f4b.html** | #08963f4b | Green (darker) |
-| **gorilla-2-35537b52.html** | #35537b52 | Blue |
-| **gorilla-3-1d1e10.html** | #1d1e10 | Brown |
+| **gorilla-1.html** | #08960d4b | Green/Amber |
+| **gorilla-2.html** | #08963f4b | Green (darker) |
+| **gorilla-3.html** | #35537b52 | Blue |
+| **gorilla-4.html** | #1d1e10 | Brown |
 
 ## Viewing
 
